@@ -1,0 +1,17 @@
+# File Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# File editor
+.vscode/
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# File sementara
+*.tmp
