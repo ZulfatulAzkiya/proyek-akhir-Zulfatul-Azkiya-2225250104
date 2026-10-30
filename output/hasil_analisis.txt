@@ -1,0 +1,8 @@
+HASIL ANALISIS NILAI MATEMATIKA
+================================
+Jumlah siswa: 8
+Rata-rata: 76.25
+Nilai tertinggi: 95.0
+Nilai terendah: 55.0
+Siswa tuntas: 7
+Siswa belum tuntas: 1
